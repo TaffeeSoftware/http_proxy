@@ -13,3 +13,5 @@ If you have an HTTPS website or app but need to send data to an HTTP-only servic
 
 ```js
 fetch("https://your-secure-domain.com/http_proxy.php?type=sendMessage&param=value")
+
+![image](https://github.com/user-attachments/assets/a7afa983-dce5-406d-afb8-8e3bf6e05ca3)
